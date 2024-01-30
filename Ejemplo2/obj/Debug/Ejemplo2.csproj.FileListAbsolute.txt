@@ -1,0 +1,7 @@
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA SEMANA 1\Ejemplo2\obj\Debug\Ejemplo2.pdb
